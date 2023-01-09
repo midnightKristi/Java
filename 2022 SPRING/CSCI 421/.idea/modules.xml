@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSCI 421.iml" filepath="$PROJECT_DIR$/.idea/CSCI 421.iml" />
+      <module fileurl="file://$PROJECT_DIR$/External Sort/External Sort.iml" filepath="$PROJECT_DIR$/External Sort/External Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreedyAlogirthms/GreedyAlogirthms.iml" filepath="$PROJECT_DIR$/GreedyAlogirthms/GreedyAlogirthms.iml" />
+    </modules>
+  </component>
+</project>

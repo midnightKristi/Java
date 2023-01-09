@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2021 SPRING.iml" filepath="$PROJECT_DIR$/.idea/2021 SPRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capstone/Capstone.iml" filepath="$PROJECT_DIR$/Capstone/Capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3.iml" filepath="$PROJECT_DIR$/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5/HW5.iml" filepath="$PROJECT_DIR$/HW5/HW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListFiles/ListFiles.iml" filepath="$PROJECT_DIR$/ListFiles/ListFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OldCapstone/OldCapstone.iml" filepath="$PROJECT_DIR$/OldCapstone/OldCapstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneDirectoryVector/PhoneDirectoryVector.iml" filepath="$PROJECT_DIR$/PhoneDirectoryVector/PhoneDirectoryVector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostFixCalulator/PostFixCalulator.iml" filepath="$PROJECT_DIR$/PostFixCalulator/PostFixCalulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searches/Searches.iml" filepath="$PROJECT_DIR$/Searches/Searches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Interface/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2022 SPRING.iml" filepath="$PROJECT_DIR$/.idea/2022 SPRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 421/AdjMatrix/AdjMatrix.iml" filepath="$PROJECT_DIR$/CSCI 421/AdjMatrix/AdjMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryMultiplication/BinaryMultiplication.iml" filepath="$PROJECT_DIR$/BinaryMultiplication/BinaryMultiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 530/CSCI 530.iml" filepath="$PROJECT_DIR$/CSCI 530/CSCI 530.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 421/External Sort/External Sort.iml" filepath="$PROJECT_DIR$/CSCI 421/External Sort/External Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 421/JAVA.iml" filepath="$PROJECT_DIR$/CSCI 421/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 421/LongestCommonSubsequence/LCS.iml" filepath="$PROJECT_DIR$/CSCI 421/LongestCommonSubsequence/LCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI 421/Longest Common Subsequence/Longest Common Subsequence.iml" filepath="$PROJECT_DIR$/CSCI 421/Longest Common Subsequence/Longest Common Subsequence.iml" />
+    </modules>
+  </component>
+</project>
